@@ -1,0 +1,586 @@
+INTRODUCTION
+Introduction
+3
+PART I
+GROWTH OF AËROSTATION
+I.
+—Early History of Passive Balloons
+29
+II.
+—Practical Development of Passive Balloons
+54
+III.
+—Early History of Power Balloons
+78
+IV.
+—Introduction of Gasoline-Driven Dirigibles
+101
+V.
+—Practical Development of Non-Rigid Dirigibles
+115
+VI.
+—Development of Rigid Dirigibles
+145
+PART II
+GROWTH OF AVIATION
+VII.
+—Model Flying Machines
+173
+VIII.
+—Nineteenth Century Man-Flyers
+202
+IX.
+—Aëroplanes of Adequate Stability and Power
+235
+X.
+—Advent of Public Flying
+256
+XI.
+—Strenuous Competitive Flying
+283
+XII.
+—Forcing the Art
+307
+x
+PART III
+AËRONAUTIC METEOROLOGY
+XIII.
+—General Properties of Free Air
+347
+XIV.
+—General Distribution of Heat and Pressure
+363
+XV.
+—Permanent and Periodic Winds
+376
+XVI.
+—Cyclones, Tornadoes, Waterspouts
+394
+XVII.
+—Thunderstorms, Wind Gusts
+422
+APPENDICES
+I.
+—Stress in a Vacuum Balloon
+443
+II.
+—Aëronautic Letters of Benjamin Franklin
+446
+III.
+—Successful Military Dirigible Balloons
+456
+IV.
+—The Relations of Weight, Speed, and Power of Flyers
+478
+V.
+—Curtiss’ Hydro-Aëroplane Experiments
+481
+INDEX
+487
+xi
+LIST OF PLATES
+FACING
+PAGE
+Plate I
+Glaisher and Coxwell.
+Parseval Kite Balloon.
+66
+Plate II
+Haenlein’s Gas-driven Dirigible.
+Wölfert’s Benzine-driven Dirigible.
+Santos-Dumont’s Dirigible, No. 16.
+98
+Plate III
+The Lebaudy.
+La Patrie.
+Lebaudy’s Morning Post.
+116
+Plate IV
+La Ville de Paris.
+Colonel Renard.
+124
+Plate V
+Zodiac III.
+Zodiac IV.
+128
+Plate VI
+La Belgique.
+Italian Military Dirigible No. I bis.
+130
+Plate VII
+Clément-Bayard I.
+Clément-Bayard II.
+132
+Plate VIII
+U. S. Signal Corps Dirigible I.
+Gross II.
+138
+xiiPlate IX
+Parseval I.
+Parseval II.
+140
+Plate X
+Gross III.
+Zeppelin Airship Structure.
+146
+Plate XI
+Zeppelin Dirigible Resting on the Water.
+Zeppelin Dirigible over Zürich.
+160
+Plate XII
+Henson’s Aëroplane.
+Ader’s Aëroplane.
+182
+Plate XIII
+Stringfellow’s Aëroplane (Front).
+Stringfellow’s Aëroplane (Side).
+186
+Plate XIV
+Phillips’s Tethered Aëroplane.
+Phillips’s Aëroplane.
+192
+Plate XV
+Langley’s Steam Model.
+Langley’s Gasoline Model.
+Langley’s Two Surface Gasoline Model.
+194
+Plate XVI
+Lilienthal’s Monoplane Glider.
+Lilienthal’s Biplane Glider.
+Pilcher’s Monoplane Glider.
+212
+Plate XVII
+Chanute’s Five-Deck Glider.
+Herring in Chanute Biplane.
+Herring’s Compressed-air Biplane.
+218
+Plate XVIII
+Maxim’s Aëroplane.
+Langley’s Large Aëroplane.
+226
+Plate XIX
+First Wright Glider.
+Second Wright Glider.
+246
+xiiiPlate XX
+First Wright Aëroplane (Rear).
+First Wright Aëroplane (Side).
+248
+Plate XXI
+Montgomery’s Aëroplane.
+252
+Plate XXII
+Santos-Dumont’s Biplane.
+Santos-Dumont’s Demoiselle.
+258
+Plate XXIII
+Farman Biplane, 1908.
+Farman Biplane, 1909.
+Harmon in Farman Biplane.
+260
+Plate XXIV
+The Red Wing.
+Curtiss Biplane.
+Curtiss Biplane with Pontoons.
+264
+Plate XXV
+Blériot Flying Over Toury-Artenay Circuit.
+Blériot Monoplane No. VIII.
+Blériot Monoplane No. IX.
+268
+Plate XXVI
+Wright Biplane of 1908.
+Standard Wright Biplane of 1910.
+Wright Racing Biplane of 1910.
+272
+Plate XXVII
+Blériot XI with Moisant Aviator on Mexican Border.
+Blériot XII.
+286
+Plate XXVIII
+Antoinette Monoplane of 1909.
+Antoinette Monoplane of 1910.
+288
+Plate XXIX
+Esnault-Pélterie Monoplane, Early Pattern.
+Esnault-Pélterie Monoplane of 1910.
+302
+Plate XXX
+Grade Monoplane.
+Cody Biplane.
+304
+xivPlate XXXI
+Fabre Hydro-aëroplane.
+Paulhan Hydro-aëroplane.
+Moisant Metal Monoplane.
+332
+Plate XXXII
+Curtiss Starting from the Water.
+Curtiss Biplane for Land and Water.
+Curtiss Triplane Risen from the Water.
+482
+xv
+LIST OF ILLUSTRATIONS IN TEXT
+FIG.
+
+PAGE
+1.
+—Da Vinci’s designs for human flying-gear
+9
+2.
+—A possible air-scout
+12
+3.
+—Blanchard’s flying-machine
+17
+4.
+—Lana’s proposed vacuum balloon
+24
+5.
+—Montgolfier’s experimental balloon
+34
+6.
+—Charles’ first hydrogen balloon
+36
+7.
+—Montgolfier’s passenger balloon
+39
+8.
+—Charles’ passenger balloon
+43
+9.
+—La Flesselle
+50
+10.
+—The Great Balloon of Nassau
+55
+11.
+—Car of Nadar’s balloon
+61
+12.
+—Diagram of a modern spherical balloon with ripping panel
+75
+13.
+—Blanchard’s dirigible balloon, 1784
+80
+14.
+—Robert Brothers’ dirigible, 1784
+82
+15.
+—General Meusnier’s proposed dirigible, 1784
+85
+16.
+—Rufus Porter’s dirigible, 1820
+87
+17.
+—Jullien’s model dirigible, 1850
+88
+18.
+—Giffard’s steam dirigible, 1852
+89
+19.
+—Dupuy de Lome’s dirigible, 1872
+92
+20.
+—Renard’s dirigible, La France, 1884
+94
+xvi
+21.
+—La Ville de Paris
+121
+22.
+—Le Petit Journal, Zodiac type
+128
+23.
+—Clément-Bayard II, 1910
+133
+24.
+—Morning Post dirigible, 1910
+135
+25.
+—Route of British military dirigibles from France to England, 1900
+137
+26.
+—Da Vinci’s helicopter
+175
+27.
+—Da Vinci’s parachute
+176
+28.
+—Veranzio’s parachute
+178
+29.
+—Lenormand’s parachute, 1784
+179
+30.
+—Paper traveling parachute
+181
+31.
+—Wenham’s aëroplane, 1866
+185
+32.
+—Penaud’s aëroplane toy, 1871
+187
+33.
+—Tatin’s aëroplane model, 1879
+188
+34.
+—Hargrave’s model screw monoplane, 1891
+190
+35.
+—Hargrave’s kite
+191
+36.
+—Launoy and Bienvenu’s helicopter, 1784
+198
+37.
+—Forlanini’s helicopter, 1878
+200
+38.
+—Le Bris’ aëroplane, 1855
+204
+39.
+—Mouillard’s aëroplane
+208
+40.
+—Blériot’s Toury-Artenay aëroplane circuit, 1908
+269
+41.
+—Map of the “Circuit de l’Est”
+330
+42.
+—Diagram of Curtiss hydro-aëroplane
+333
+43.
+—The Etrich monoplane of 1910
+336
+44.
+—Summer and winter average vertical temperature gradients
+369
+45.
+—General circulation of the atmosphere
+378
+46.
+—Normal Wind direction and velocity for January and February (Köppen)
+381
+xvii
+47.
+—Normal Wind direction and velocity for July and August (Köppen)
+383
+48.
+—Trade and counter-trade winds
+384
+49.
+—Velocity diagram in horizontal section of a cyclone
+398
+50.
+—Funnel-like cloud sometimes observed in a tornado
+409
+51.
+—Vertical section of the St. Louis, Mo., tornado of May 27, 1896
+411
+52.
+—Horizontal section of St. Louis tornado of May 27, 1896
+412
+53.
+—Vertical section of short tornado
+414
+54.
+—Vertical section of a tall tornado
+415
+55.
+—Vertical section of a hail tornado
+417
+56.
+—Universal anemograph
+428
+57.
+—Records of wind variation in horizontal and vertical direction
+429
+58.
+—Records of Wind speed obtained by Langley
+433
+1
+INTRODUCTION
+3
+INTRODUCTION
+FANCY AND FOLK-LORE
+Of silver wings he took a shining pair,
+Fringed with gold, unwearied, nimble, swift;
+With these he parts the winds, the clouds, the air,
+And over seas and earth himself doth lift.
+Thus clad he cuts the spheres and circles fair,
+And the pure skies with sacred feathers clift;
+On Lebanon at first his feet he set
+And shook his wings with rosy may-dews wet.
+Tasso, Canto I, XIV.
+How beautiful! May we hope ever to journey thus, on wings actuated by human power? It is an old question, once dear to the philosopher and fool alike, but now important mainly to the fool. Or say more kindly it is the affair of untechnical inventors—the amateur, the rustic, the man of chimerical dreams. For the wise aëronaut now numbers that project among the roseate illusions of his youth.[1]
+
+Ovid relates a story, doubtless credible in his day, of a clever craftsman who with his son flew bravely aloft, the very first time they put on wings. Daedalus, a Greek architect, having fled from Athens for murder, went with his son Icarus to the island of Crete, where he built the celebrated labyrinth for Minos, the king. He offended that monarch and was cast into prison. In order to escape he made wings for himself and his son, with which they flew far 4over the sea. But Icarus, in his elation, soared too near the sun, ruined his wings, fell into the sea and was drowned. For proof of this we have the Icarian Sea, named after the unfortunate boy. Also we have Ovid’s charming poem:
+
+In tedious exile now too long detain’d
+Daedalus languish’d for his native land;
+The sea foreclosed his flight, yet thus he said;
+“Though earth and water in subjection laid,
+O cruel Minos, thy dominion be,
+We’ll go through air; for sure the air is free.”
+Then to new arts his cunning thought applies,
+And to improve the work of nature tries.
+A row of quills, in gradual order placed,
+Rise by degrees in length from first to last;
+As on a cliff the ascending thicket grows;
+Or different reeds the rural pipe compose:
+Along the middle runs a twine of flax,
+The bottom stems are join’d by plaint wax;
+Thus, well compact, a hollow bending brings
+The fine composure into real wings.
+His boy, young Icarus, that near him stood,
+Unthinking of his fate, with smiles pursued
+The floating feathers, which the moving air
+Bore loosely from the ground, and wafted here and there:
+Or with the wax impertinently play’d,
+And with his childish tricks the great design delay’d.
+The final masterstroke at last imposed,
+And now, the great machine completely closed;
+Fitting his pinions on, a flight he tries,
+And hung self-balanced in the beaten skies.
+Then thus instructs his child: “My boy, take care
+To wing your course along the middle air:
+If low, the surges wet your flagging plumes;
+If high, the sun the melting wax consumes.
+Steer between both: nor to the northern skies,
+Nor South Orion, turn your giddy eyes,
+But follow me; let me before you lay
+Rules for the flight, and mark the pathless way.”
+5
+Thus teaching, with a fond concern, his son,
+He took the untried wings, and fix’d them on:
+But fix’d with trembling hands; and, as he speaks,
+The tears roll gently down his aged cheeks;
+Then kiss’d, and in his arms embraced him fast,
+But knew not this embrace must be the last;
+And mounting upward, as he wings his flight,
+Back on his charge he turns his aching sight;
+As parent birds, when first their callow care
+Leave the high nest to tempt the liquid air;
+Then cheers him on, and oft, with fatal art,
+Reminds the stripling to perform his part.
+These, as the angler at the silent brook,
+Or mountain shepherd leaning on his crook,
+Or gaping ploughman, from the vale descries,
+They stare, and view them with religious eyes,
+And straight conclude them gods; since none but they
+Through their own azure skies could find a way.
+Now Delos, Paros, on the left are seen,
+And Samos, favour’d by Jove’s haughty queen;
+Upon the right, the isle Lebynthos named,
+And fair Calymne for its honey famed.
+When now the boy, whose childish thoughts aspire
+To loftier aims, and make him ramble higher,
+Grown wild and wanton, more embolden’d flies
+Far from his guide, and scars among the skies:
+The softening wax, that felt a nearer sun,
+Dissolved apace, and soon began to run:
+The youth in vain his melting pinion shakes,
+His feathers gone, no longer air he takes:
+“Oh! father, father!” as he strove to cry,
+Down to the sea he tumbled from on high,
+And found his fate; yet still subsists by Fame,
+Among those waters that retain his name.
+The Father, now no more a father, cries:
+“Ho, Icarus! where are you?” as he flies;
+“Where shall I seek my boy?” he cries again,
+And saw his feathers scatter’d on the main;
+Then cursed his art; and funeral rites conferr’d
+Naming the country from the youth interr’d.
+6
+
+How tender and apprehensive that gentleman’s farewell, compared with the modern vogue in like circumstances! Of the two Americans at Berlin who fell four thousand feet in a balloon, it is not recorded that they either kissed or wept.[2] But some Teutonic Ovid may yet adorn the tale with quaint embellishments.
+
+Taking more serious note of Daedalus, it will be observed that he has had few imitators. It is because he never really flew, and no one else can fly, in such manner. That is to say, no man can achieve practical flight on wings actuated by his own muscular power. It may be physically possible for an athlete putting forth herculean energy for a few seconds to sustain himself on wings of enormous spread; but in every lightest zephyr he would be as helpless as a thistle seed.
+
+The actual area of wing required for a man of given weight and power may be roughly estimated; at least its lower limit of size can be determined. Lord Rayleigh,[3] on purely theoretical ground, has computed that a man operating a screw propeller 280 feet in diameter, moving without frictional loss, could sustain his weight for a period of eight hours a day at a comfortable rate of work. But that estimate does not include the weight of the propeller. By exerting ten times his normal power the man could support his weight with a 28-foot propeller.
+
+The physical basis of the computation is the same for every type of flyer, whether bird, man, or machine.7 Its weight must be sustained by hurling the air downward. The humming bird in its aërial pause, the bee floating beside a blossom, rests on a down-driven column of air. The home-gliding eagle at dusk may encounter a medium in stillest repose, but he leaves behind him a down-flowing wake, viewless, maybe, but none the less real. In all cases the downward impulse per second given to the air must equal the weight supported by its reaction. If the wings be very extensive a proportionate mass of air may be struck down, and yield support with so much the less exertion.
+
+Horizontal flight promises little more than direct screw lift, with the feeble energy of the human muscle. The best modern aëroplanes carry less than 100 pounds per horse power, while an average man must weigh, with a light machine, not less than 200 pounds, and must therefore exert upwards of two horse power during flight. Such an output of energy would exhaust a powerful athlete in a few seconds. Hence from every point of view it appears that Daedalean flight, which still has its devotees in some form, was and always will be utterly impracticable.
+
+Ruskin finds another objection to the disciples of the winged arm. In his disquisition on the equilibrium of angels he complains that those of the traditional two-wing type are devoid of gravitational balance. Such creatures vex the imagination with apprehensions for their stability; hence they cannot be entirely beautiful. The centroid of an angel is in the small of its back, whereas the center of wing support is well forward; therefore the horizontal poise is absurd and unæsthetic. The scientific artist, consequently, views with pain the picture of a fair lady floating level through space supported only at her front end.
+
+Milton adroitly forestalls this censure. In the8 conception of his glorious Raphael, he provides consummately for uniform and adequate support:
+
+Six wings he wore, to shade
+His lineaments divine; the pair that clad
+Each shoulder broad, came mantling o’er his breast
+With regal ornament; the middle pair
+Girt like a starry zone his waist, and round
+Skirted his loins and thighs with downy gold,
+And colors dipped in Heaven; the third his feet
+Shadowed from either heel with feathered mail,
+Sky-tinctured grain. Like Maia’s son he stood,
+And shook his plumes, that heavenly fragrance filled
+The circuit wide.
+Leonardo da Vinci, who was a gifted engineer as well as an artist, devised a flying gear for man which shows some dynamic improvement over the mechanism of the old-time angels, flying gods, and hobgoblins. As shown in the accompanying sketch, it provided for gravitational balance by use of an expanding tail projecting well to the rear. Moreover, the propulsion was to employ both arms and legs. This design is considered very remarkable for the time in which it was produced, probably a few years before the discovery of America; and yet it is but one of Da Vinci’s quaint aëronautical inventions, as will appear later.
+
+A less futile scheme of aviation may be to saddle the birds. If one eagle can float a child, a few may possibly carry a man. They are physically able; they are inexpensive; they are unwearied, nimble, swift. Some harness, some tuition may be required; but these come to the industrious. Apparently, such locomotion is a sport worth developing; a royal art, if you please; for who would not course the sky in a purple palanquin borne by imperial eagles?
+
+Kai Kaoos, the King of Persia, is credited with a9 voyage of this kind, as described in the Shah-Nemeh, or King-Book, written in the tenth century:
+
+“To the king it became a matter of great concern how he might be enabled to ascend the heavens, without 10wings; and for that purpose he consulted the astrologers, who presently suggested a way in which his desires might be successfully accomplished.
+
+
+
+“To the king it became a matter of great concern how he might be enabled to ascend the heavens, without 10wings; and for that purpose he consulted the astrologers, who presently suggested a way in which his desires might be successfully accomplished.
+
+
+Fig. 1.—Da Vinci’s Designs for Human Flying-Gear.
+“They contrived to rob an eagle’s nest of its young, which they reared with great care, supplying them with invigorating food.
+
+“A frame of aloes-wood was then prepared, and at each of the four corners was fixed perpendicularly a javelin surmounted on the point with the flesh of a goat. At each corner again one of the eagles was bound, and in the middle the king was seated with a goblet of wine before him. As soon as the eagles became hungry they endeavored to get at the goat’s flesh upon the javelins, and by flapping their wings, and flying upwards they quickly raised the throne from the ground. Hunger still pressing on them, and still being distant from their prey, they ascended higher and higher in the clouds, conveying the astonished king far beyond his own country. But after a long and fruitless exertion, their strength failed them, and, unable to keep their way, the whole fabric came tumbling down from the sky, and fell upon a dreary solitude in the Kingdom of Chin, where Kai Kaoos was left a prey to hunger, alone, and in utter despair.”
+
+One might prefer a single bird, which could be ridden bareback by a man or woman of common equestrian skill. The ear
+
+
+of common equestrian skill. The early philosophers, therefore, sought with some care for such a creature. The following is related by Bishop Wilkins:
+
+“Cardan and Scaliger doe unanimously affirm, that there is a bird amongst the Indians of so great a bignesse, that his beak is often used to make a sheath or scabbard for a sword. And Acosta tells us of a fowl in Peru called Condores, which will of themselves kill and eat up a whole calf at a time. Nor is there any reason why any other body may not11 be supported and carried in the air, though it should as much exceed the quantity of these fowls as they do the quantity of a flie. Marcus Polus mentions a fowl in Madagascar which he cals a Ruck, the feathers of whose wings are 12 paces, or threescore foot long, which can with as much ease scoop up an elephant as our kites do a mouse. If this relation was anything credible, it might serve as an abundant proof for the present quaere.”
+
+As the roc has proved a myth, one questions whether a saddle bird may not be evolved by judicious breeding. But opposed to this is the square-cube law of the Greek geometer, by which a learned geologist demonstrated that nature has reached the limit of her resources in the production of large flyers, the ostrich, for example, being too bulky to navigate at all. As a last resource, then, the human dwarf may breed his weight downward to accommodate the bird. Assuredly, the most powerful flyer can carry the lightest human dwarf without difficulty.
+
+Such aërial cavalry has been projected occasionally, and if fairly developed might have interesting employment. Its military value, to say nothing of its civil uses, would be considerable. An aërial scout that could hide in a tree top, or small cloud, then flit home with full intelligence of the enemy, would be effective and unique. In aggressive warfare it would serve the plan of that ingenious Englishman who proposes to repel a German invasion by dispatching birds to peck holes in the enemy’s war balloons. But here the dwarf might be omitted, if the birds were taught to have a definite interest in attacking aërial cruisers with their beaks, or with steel-armed spurs like those of the Spanish fighting cock, or with talons treated chemically to strike fire. Sparrows with sulphur-pointed toes could easily annihilate an aërial squadron at all combustible.
+
+12
+
+Recurring to the geologist, it may be added that, having discovered the major limit of feathered navigators, he concluded, as a corollary, that human flight is forever impossible. That was in the latter eighties. In 1901 a versatile astronomer adduced the same law to prove that an aëroplane could not be made to carry a man. Presently, learning that this had been achieved, he proved, in a second mellifluous paper, that an aëroplane could not carry, several men.[4] Having erred twice, he wrote a final article announcing that a flyer is fatuous, anyhow, because she cannot repair her engines in the sky!
+
+
+Fig. 2.—A Possible Air-scout.
+Of the numerous daring and industrious inventors who, during remote generations, have launched 13themselves in the air on some species of rigid or vibrant wings, a few were men of considerable equipment in philosophy, or mechanics, and enjoyed a sufficient measure of success to deserve passing notice; though it seems that no man before the middle of the eighteenth century made a permanent contribution to the real art of mechanical flight, if we except the ingenious suggestive devices of Leonardo da Vinci. However skilfully their flying apparatus may have been planned, or operated, the results were lost to the world, due to inaccurate or inadequate description. Such inventors were J. B. Dante, in the fifteenth century, and the Marquis de Bacqueville, in the seventeenth. Each of these made one, or more, considerable flights, if we may credit the unwavering testimony of their contemporaries; but neither has left a sketch of his device, nor a school of followers to continue his spectacular practice.
+
+Jean-Baptiste Dante, a shrewd observer and profound mathematician, who flourished toward the end of the fifteenth century, a contemporary of Da Vinci and Columbus, is reported by the historians of that day to have sailed successfully through the air on nonvibrant wings designed by himself after a careful study of the great soaring birds. Perching above a steep crag on the shore of Lake Trasimene, he set his wings to the wind at a nice angle, as one sets the sails of a vessel; then, lifted by the swelling breeze, he rose grandly aloft and floated far over the waters. Again and again he repeated the experiment, until the fame thereof secured for him a request to make the demonstration at the marriage fêtes of the illustrious general, Barthelmi Alviano. He accepted the invitation, and, starting from the top of the highest tower in the city of Perugia, he sailed over the public square, and balanced himself for a long time in space, amid the shouts and acclamations of the multitude, 14attracted to Perugia by the novelty of his performance. But, sad to relate, the very first time he performed these wonderful maneuvers above the solid ground instead of the lake, one of the levers used to alter the impact angle of his wings gave way, disturbing his aërial poise, and causing him to pitch down upon Notre Dame church, breaking one of his legs. After this he taught mathematics at Venice, where he died of fever at the age of forty years.
+
+In 1742, the Marquis de Bacqueville, at the age of sixty-two years, announced that on a certain day he would fly from his house on the Seine, traverse the river, and land in the Garden of the Tuileries. A great multitude assembled, crowding both shores and the two bridges. At the appointed moment the Marquis appeared with his pinions, and launched himself from the terrace. He sailed forth in majestic and serene poise, on graceful wings not unlike those of the traditional angels. He was gliding directly toward the Tuileries, and he enjoyed a happy cruise quite to the middle of the river. Then something happened; his movements became fitful and uncertain; he plunged downward and broke his leg on a laundry boat. The reason for his stopping there can only be surmised, for he had nothing to report. He did not quite fulfil his program, but he flew nine hundred feet delightfully, and he landed without getting wet.
+
+Commentators have marveled as to the nature of the mechanism used by Dante and by De Bacqueville. Historians have strongly attested the fact of the flights, but have overlooked the means. The inventors must have employed aërial gliders of some kind, for adequate motive power was not available before the end of the nineteenth century. Even as an experiment in gliding, or soaring, the achievement of Dante was most daring and wonderful, eclipsing the15 best performances up to the twentieth century. It is strange that in that period of science the survivor of such an experience, and a college professor, should not have left to the world a careful account of such an extraordinary performance. The alleged flights, however, were unquestionably feasible, even in that remote period, for the construction of an aërial glider is a simple task not beyond the capacity of craftsmen in the fifteenth century A.D., or even the fifteenth century B.C., directed by a skilful designer.
+
+Besides the wing-armed scheme of flight credited to Daedalus, and contemplated by Da Vinci, various other plans were evolved in succeeding years. Aërial chariots and flying machines were devised for the more advantageous use of muscular energy. In all these, of course, the passenger could be both power plant and captain of the ship.
+
+One of the earliest authenticated devices of this kind was the invention of Blanchard, described by him in the Journal de Paris, August 28, 1781, nearly two years before the invention of the hot-air balloon, of which he became later an enthusiastic votary. As his device is but one of a large number that appeared before the close of the nineteenth century, and the advent of light motors, the reader who wishes fuller acquaintance with man-driven airships may be referred to Mr. Chanute’s book, entitled Progress in Flying-Machines, which describes a large variety of such inventions, and discusses the merit and weakness of each.
+
+Blanchard prefaces the description of his machine by answering some criticisms of his project, apparently ventured by his neighbors. “They object to me,” he writes, “that flying is not the business of man, but rather of the feathered birds. I reply that feathers are not at all necessary to the bird for flight; any fabric suffices. The fly, the butterfly, the bat,16 etc., fly without feathers and with fanlike wings of material resembling horn. It is, then, neither the material nor the form that causes flight, but the volume and the celerity of the movement, which should be as lively as possible.
+
+“They object, moreover, that a man is too heavy to lift himself alone with wings, much less in a vessel which of itself presents enormous weight. I reply that my ship is extremely light; as to the man’s weight, I pray that attention be given to that which M. de Buffon says in his Histoire Naturelle, on the subject of the condor; this bird, though of enormous weight, easily lifts a two-year-old heifer weighing at least a hundred pounds, the whole with wings of about thirty to thirty-six feet expanse.”
+
+He then describes the vessel as a little ship four feet long by two feet wide, having on either side two posts, each supporting a wing ten feet long, the whole forming a parasol twenty feet in diameter. The construction was illustrated by an engraver, who had seen the vessel and was convinced of its practicability. In conclusion, the inventor writes that people shall see him cleave the air with more speed than the crow, and that without losing his breath, being protected by a pointed mask of peculiar construction. But, as he failed to make good his promises, he was subjected to ridicule, as well as praise, by the local press, one of the caricatures portraying him in the act of making an ascension before a concourse of bulging-eyed savants and long-eared jackasses, wearing spectacles to accentuate the appearance of wisdom and solemnity.
+
+The scientific coterie of Paris were apparently impatient of the attention shown Blanchard by the press and people. Accordingly, in May, 1782, the distinguished astronomer, De Laland, of the French Academy, administered a mild rebuke to the editors17 of the Paris Journal. “Gentlemen,” he wrote, “you have given so much time to air ships and divination rods that one might eventually think that you believe in these follies, or that the scientists who coöperate with your journal have nothing to say to dispel these absurd pretensions. Permit me, therefore, gentlemen, to occupy some lines in your journal to assure your readers that if the savants are silent it is only because of their contempt.
+
+
+Fig. 3.—Blanchard’s Flying-machine.
+“It has been demonstrated to be impossible for a man in any manner whatever to raise himself, or even to sustain himself, in the air. M. Coulomb, of the Academy of Sciences, at one of our meetings a year ago, read a paper in which he showed clearly, by calculating the power of a man, determined by experiments, that he would require wings two or three18 thousand feet long moved three feet per second; hence no one but an ignoramus would make an attempt of this kind.”
+
+Not many months after this lofty deliverance, Blanchard took De Lalande up in a balloon—“the dead borne by the dumb.”
+
+Coulomb’s calculation that a man’s pinions should be half a mile long must have been discouraging to those inventors who believed in him; for, granting that such wings could lift a man, who could lift the wings? And at that date the steam engine was only beginning to develop; the petroleum engine was hardly thought of. No wonder that people turned eagerly to the balloon when it finally appeared.
+
+There has been some controversy as to what person first clearly conceived a feasible design for a balloon. The conception was certainly not new to the world in 1783, when Joseph Montgolfier made his classical experiment. Indeed, prior to that date three distinct principles of aërial flotation had been entertained by natural philosophers; first, that a boat could be so formed of heavy material as to ride on the upper surface of the atmosphere, as a metallic 

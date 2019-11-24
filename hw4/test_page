@@ -1,0 +1,44 @@
+#include "cacheManipFunctions.h"
+
+int performLoad(int& hits, int& misses, int& cycles, int evict, int num_blocks, int block_size, int num_sets, std::\
+string index, std::string tag, Cache& cache, std::string& first_tag) {
+    cSet* set_home = cache.findSet(index);
+    cBlock* block;
+    if (set_home->getNull()) {
+        delete set_home;
+        if (cache.getNumSets() == num_sets) {
+            std::cerr << "Index is invalid" << std::endl;
+            return -1;
+        }
+        misses++;
+        set_home = cache.addSet(index);
+        block = new cBlock(tag);
+        set_home->addBlock(*block);
+        first_tag = tag;
+        cycles += 100 * (block_size / 4) + 1;
+            delete set_home;
+            delete block;
+    }
+    else {
+        block = set_home->findBlock(tag);
+        //checks if the block is in the set looking at
+        //if not then a cache miss
+        if (block->getNull()) {
+            delete block;
+            misses++;
+            cycles += 100 * (block_size / 4) + 1;
+            //check to see if is no more space in set
+            //if no space evicts the block according to evict
+            if (set_home->getNumBlocksStored() == num_blocks) {
+                //get block that is least used or first added to set
+                block = set_home->findBlockAt(num_blocks - 1);
+
+                //checks if the block is dirty
+                //if dirty then need to write to memory
+                if (block->getDirty()) {
+                    cycles += 100 * (block_size / 4);
+                    block->clearDirty();
+                }
+
+                set_home->incrementTimesAll();
+                block->resetTime();

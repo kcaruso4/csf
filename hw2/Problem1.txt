@@ -1,0 +1,5 @@
+# of distinct functions = 2^(2^n))
+for n-inputs
+
+Justification:
+For n-input functions, since each input may either be the value 0 or 1 there are 2^n distinct inputs the function may accept. Because each row (combination of n inputs) may have the output 0 or 1, there are a total of 2^(2^n) distinct boolean functions for a function that takes n inputs.

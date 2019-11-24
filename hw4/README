@@ -1,0 +1,138 @@
+For all of my tests I set the number of sets equal to 256, the number of blocks in each set is 4, and the number of bytes in each block is 16 using the gcc.trace file. The following are the results of the combinations I ran with fifo/lru, write-allocate/no-write-allocate, and write-through/write-back. I kept the set number, block number, and block size the same to highlight the effects between W-A and N-W-A and W-T and W-B had on the performance of the cache. The size of the cache is 16384.
+
+WRITE-ALLOCATE WRITE-THROUGH FIFO:
+Total loads: 318197
+Total stores: 197486
+Load hits: 314171
+Load misses: 4026
+Store hits: 188047
+Store misses: 9439
+Total cycles: 25650283
+
+WRITE-ALLOCATE WRITE-THROUGH LRU:
+Total loads: 318197
+Total stores: 197486
+Load hits: 314798
+Load misses: 3399
+Store hits: 188250
+Store misses: 9236
+Total cycles: 25318283
+
+WRITE-ALLOCATE WRITE-BACK FIFO:
+Total loads: 318197
+Total stores: 197486
+Load hits: 314171
+Load misses: 4026
+Store hits: 188047
+Store misses: 9439
+Total cycles: 9809283
+
+WRITE-ALLOCATE WRITE-BACK LRU:
+Total loads: 318197
+Total stores: 197486
+Load hits: 314798
+Load misses: 3399
+Store hits: 188250
+Store misses: 9236
+Total cycles: 9318883
+
+NO-WRITE-ALLOCATE WRITE-THROUGH FIFO:
+Total loads: 318197
+Total stores: 197486
+Load hits: 311017
+Load misses: 7180
+Store hits: 163705
+Store misses: 33781
+Total cycles: 22938797
+
+NO-WRITE-ALLOCATE WRITE-THROUGH LRU:
+Total loads: 318197
+Total stores: 197486
+Load hits: 311613
+Load misses: 6584
+Store hits: 164819
+Store misses: 32667
+Total cycles: 22700397
+
+When I ran these test on a cache with set number 8192 block number 128 and block size 16 (cache size = 16777216) I got these results:
+
+WRITE-ALLOCATE WRITE-THROUGH FIFO:
+Total loads: 318197
+Total stores: 197486
+Load hits: 315855
+Load misses: 2342
+Store hits: 188617
+Store misses: 8869
+Total cycles: 24748683
+
+WRITE-ALLOCATE WRITE-THROUGH LRU:
+Total loads: 318197
+Total stores: 197486
+Load hits: 315855
+Load misses: 2342
+Store hits: 188617
+Store misses: 8869
+Total cycles: 24748683
+
+WRITE-ALLOCATE WRITE-BACK FIFO:
+Total loads: 318197
+Total stores: 197486
+Load hits: 315855
+Load misses: 2342
+Store hits: 188617
+Store misses: 8869
+Total cycles: 5000083
+
+WRITE-ALLOCATE WRITE-BACK LRU:
+Total loads: 318197
+Total stores: 197486
+Load hits: 315855
+Load misses: 2342
+Store hits: 188617
+Store misses: 8869
+Total cycles: 5000083
+
+NO-WRITE-ALLOCATE WRITE-THROUGH FIFO:
+Total loads: 318197
+Total stores: 197486
+Load hits: 312207
+Load misses: 5990
+Store hits: 165216
+Store misses: 32270
+Total cycles: 22462797
+
+NO-WRITE-ALLOCATE WRITE-THROUGH LRU:
+Total loads: 318197
+Total stores: 197486
+Load hits: 312207
+Load misses: 5990
+Store hits: 165216
+Store misses: 32270
+Total cycles: 22462797
+
+BEST CACHE:
+In my personal opinion I think the best cache is the no-write-allocate write-back cache with lru eviction.
+
+Looking at the data for all of the runs, the smaller cache with the same allocation and store time (WT/WB) fields had lower total cycles with LRU rather than fifo while the cycles remained constant between the two forms of eviction for the large cache. This is better because blocks that are not being used are replaced with blocks that could be accessed more which would increase the number of hits (thus reducing the number of misses). For example when the cache is NWA WT, the difference in misses between stores and loads is as follows:
+LM FIFO: 7180 > LM LRU 6584
+SM FIFO: 33781 > SM LRU 32667
+While the difference between the two is not extremely drastic, it does exist and the pattern is visible for all combinations of WA/NWA and WB/WT. And this difference does affect the overall cycle count (FIFO TC: 22938797 > LR TC: 22700397 and the difference is 238400 cycles).
+
+I also think write-back is more effective than write-through because when you store multiple times to a specific block, the main memory only needs to be updated when you evict the block rather than every time you store a new value in the block which can be very costly. When looking at the data from the test with the larger cache that is a WA and FIFO this fact that I stated is illustrated in the total cycles of the difference caches. The number of load hits, load misses, store hits, and store misses are the same (as expected because WT and WB should only affect the cycle count (when data is stored to main memory)). The data is as follows:
+WT TC: 24748683 > WB TC: 5000083.
+The difference between these cycle counts is 1974780 which is very significant.
+
+Lastly NWA is more efficient than WA because with NWA every time there is a store miss only the main memory is changed, no cycles are wasted by bringing the block of memory forward before actually performing the store on the cache and/or main memory. Because the block is never brought to the cache on a store miss, there will be an increase in number of misses but the overall total cycle will be less for NWA caches. This trend can be seen in both my large and small cache tests.
+Looking at the results from the larger cache were it is WT and LRU, the results are as follows:
+WA LM: 2342 < NWA LM: 5990
+WA SM: 8869 < NWA SM: 32270
+WA TC: 24748683 > NWA TC: 22462797
+The results for my smaller cache where it is WT and FIFO are as follows:
+WA LM: 4026 < NWA LM: 7180
+WA SM: 9439 < NWA SM: 33781
+WA TC: 25650283 > NWA TC: 22938797
+These results show that while the overall miss penalty rate for WA will be smaller relative to NWA the cost of a NWA cache is significantly cheaper.
+
+When looking at how the different cache characteristics affect the cache functionality when its size increases, I noticed that the effect LRU and FIFO eviction no longer impacts the overall miss penalties and total cycles. Therefore with a large cache, either can be chosen because there is very little difference in impact between the two. The trends between WB and WT and WA and NWA still apply though. Therefore to optimize a large cache it should be NWA and WB.
+
+Therefore in my opinion the best cache configuration is a no-write-allocation, write-back cache with lru eviction.
